@@ -9,7 +9,7 @@ public class Main {
         salesTax = purchasePrice * 0.05;
 
         System.out.println("The price of the purchase is $" + purchasePrice);
-        System.out.println("The sales tax for the purchase is $" + salesTax);
+        System.out.println("A 5% sales tax for the purchase is $" + salesTax);
 
     }
 }
